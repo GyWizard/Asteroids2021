@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a84b8e8f5f80edd4fb09c2352e6efecb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Space Madness
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62a832e34a3d00346bde99983101335f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

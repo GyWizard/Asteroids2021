@@ -1,0 +1,19 @@
+{
+    "name": "LevelSystem",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5dfd4170d8d67fb45addd8f44665dcd0",
+        "GUID:f2b4771087ebb684cb3a1690f1f91b45",
+        "GUID:d309e1768b0f1c7429006cdfa2f277fb",
+        "GUID:d9d2ce5149505e24082166f2c077445c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

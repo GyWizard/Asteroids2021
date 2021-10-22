@@ -1,0 +1,25 @@
+{
+    "name": "Factorys",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e3e0d1055ed57d9468e04e4aad9c6c7f",
+        "GUID:d9d2ce5149505e24082166f2c077445c",
+        "GUID:2413e1a60ccccfd4a81e0e5df761f9ae",
+        "GUID:f2b4771087ebb684cb3a1690f1f91b45",
+        "GUID:e65af0de318e87a45859f23dff64691b",
+        "GUID:3b079a5571c52b446a762fedcadbb08a",
+        "GUID:0957900c026ca0f4b812b2b93c291021",
+        "GUID:8e4198fc39c892646a615b8fdd8493fe",
+        "GUID:02ed6a3fd7872744bb888b61ff8200e5",
+        "GUID:d85cd2439996a3f41aba070bd6cd334d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
