@@ -78,7 +78,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 2021 KEFIR!
+  m_Text: 2021
 --- !u!1 &8646070764777360840
 GameObject:
   m_ObjectHideFlags: 0
@@ -274,7 +274,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3cf35660eec4d74eaccd41eae1daa9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bestScoreValue: {fileID: 0}
 --- !u!1 &8646070765637939307
 GameObject:
   m_ObjectHideFlags: 0
